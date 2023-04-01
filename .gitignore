@@ -1,0 +1,7 @@
+### Workspace dirs ###
+node_modules
+package-lock.json
+docker-compose.yml
+
+### VS Code ###
+.vscode/
