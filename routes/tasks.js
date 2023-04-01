@@ -10,7 +10,6 @@ router.get('',(req,resp)=>{
 //GET a task by id
 router.get('/:id',(req,resp)=>{
     resp.json({message: 'GET a task by id'})
-
 })
 
 //POST a task
