@@ -4,15 +4,17 @@ const express = require('express')
 
 const app = express()
 
+const taskRoutes = require('./routes/tasks')
+
 //middleware
 app.use((req,resp,next)=>{
     console.log(req.path,req.method)
     next()
 })
 
-app.get('/',(req,res)=>{
-    res.json(`application is running on port ${port}`)
-})
+app.use(express.json())
+
+app.use('/api/tasks',taskRoutes)
 
 const port = process.env.PORT
 
