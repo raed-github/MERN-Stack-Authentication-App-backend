@@ -23,13 +23,24 @@ const getTaskById = async (req,resp)=>{
 
 //create tasks
 const createTask = async (req,resp) => {
-    const {name,priority} = req.body
+    const {taskName,priority} = req.body
+    let emptyFields = []
+    if(!taskName){
+        emptyFields.push('taskName')
+    }
+    if(!priority){
+        emptyFields.push('priority')
+    }
+    if(emptyFields.length>0){
+        return resp.status(400).json({error:'Please fill in all fields',emptyFields})
+    }
     try{
-        const task = await Task.create({name,priority})
+        const task = await Task.create({taskName,priority})
         resp.status(200).json(task)
     }catch(error){
         resp.status(400).json({error: error.message})
     }
+    console.log(resp)
 }
 
 //delete task
