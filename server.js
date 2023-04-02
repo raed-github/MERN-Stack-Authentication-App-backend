@@ -7,10 +7,11 @@ const mongoose = require('mongoose')
 const app = express()
 
 const taskRoutes = require('./routes/tasks')
+const userRoutes = require('./routes/users')
 
 const port = process.env.PORT
 const mongoURI = process.env.MONGO_URI
-console.log(mongoURI)
+
 //middleware
 app.use((req,resp,next)=>{
     console.log(req.path,req.method)
@@ -21,6 +22,7 @@ app.use(express.json())
 
 //routes
 app.use('/api/tasks',taskRoutes)
+app.use('/api/users',userRoutes)
 
 //connect to DB
 mongoose.connect(mongoURI)
