@@ -3,3 +3,7 @@
 {"level":"info","message":"caching response under key=__express__/api/tasks"}
 {"level":"info","message":"GET /api/tasks 200"}
 {"level":"info","message":"loading cached response. key=__express__/api/tasks"}
+{"level":"info","message":"GET /api/tasks 200"}
+{"level":"info","message":"loading cached response. key=__express__/api/tasks"}
+{"level":"info","message":"GET /api/tasks 200"}
+{"level":"info","message":"loading cached response. key=__express__/api/tasks"}

@@ -1,5 +1,5 @@
 const Memcached = require('memcached');
-const memcached = new Memcached('localhost:11211');
+const memcached = new Memcached(process.env.MEMCACHED_URI);
 const {logger} = require('../util/logging')
 
 // Cache middleware
