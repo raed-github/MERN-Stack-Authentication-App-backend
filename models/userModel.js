@@ -21,7 +21,6 @@ usersSchema.statics.loginUser = async function(userName, password) {
         throw Error('All fields must be filled')
     }
     const user = await this.findOne({userName})
-    console.log(user)
     if (!user) {
         throw Error('Incorrect email')
     }

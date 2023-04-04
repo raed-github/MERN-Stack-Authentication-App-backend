@@ -8,16 +8,16 @@ const app = express()
 
 const taskRoutes = require('./routes/tasks')
 const userRoutes = require('./routes/users')
+const {logger} = require('./util/logging')
 
 const port = process.env.PORT
 const mongoURI = process.env.MONGO_URI
 
 //middleware
-app.use((req,resp,next)=>{
-    console.log(req.path,req.method)
-    next()
-})
-
+app.use((req, res, next) => {
+    logger.log('info', `${req.method} ${req.originalUrl} ${res.statusCode}`);
+    next();
+});
 app.use(express.json())
 
 //routes
