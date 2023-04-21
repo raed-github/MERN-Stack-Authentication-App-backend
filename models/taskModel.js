@@ -10,6 +10,10 @@ const tasksSchema = new Schema({
     priority:{
         type:Number,
         required: true
+    },
+    user_id:{
+        type: String,
+        required: true
     }
 },{timestamps:true})
 //this module.exports will create a schema for us which will be used to interact with the collection

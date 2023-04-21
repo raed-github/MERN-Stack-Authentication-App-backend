@@ -28,5 +28,4 @@ const singUpUser = async (req,resp)=>{
         resp.status(400).json({error: error.message})
     }
 }
-
 module.exports = { loginUser, singUpUser }

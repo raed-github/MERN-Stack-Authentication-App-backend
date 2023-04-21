@@ -1,9 +1,530 @@
+{"level":"info","message":"POST /api/tasks 200"}
+{"level":"info","message":"verifying authorization"}
+{"level":"info","message":"authorization code =Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2NDJiMjQ4YmFmMGUyZjkwNDY1YmNmMGYiLCJpYXQiOjE2ODA2Mzk4NzEsImV4cCI6MTY4MDcyNjI3MX0.83uUcjZ1S9yQrkfp9Qll0T_I7EJyuWdclcWFtgtQDBU"}
+{"level":"info","message":"Authorized Request"}
+{"level":"info","message":"DELETE /api/tasks/undefined 200"}
+{"level":"info","message":"verifying authorization"}
+{"level":"info","message":"authorization code =Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2NDJiMjQ4YmFmMGUyZjkwNDY1YmNmMGYiLCJpYXQiOjE2ODA2Mzk4NzEsImV4cCI6MTY4MDcyNjI3MX0.83uUcjZ1S9yQrkfp9Qll0T_I7EJyuWdclcWFtgtQDBU"}
+{"level":"info","message":"Authorized Request"}
+{"level":"info","message":"POST /api/tasks 200"}
+{"level":"info","message":"verifying authorization"}
+{"level":"info","message":"authorization code =Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2NDJiMjQ4YmFmMGUyZjkwNDY1YmNmMGYiLCJpYXQiOjE2ODA2Mzc4OTcsImV4cCI6MTY4MDcyNDI5N30.lZAB889YnlEUmEWIgOlqSiXQ3BY6k_4niAWSNxcFoYI"}
+{"level":"info","message":"Authorized Request"}
+{"level":"info","message":"POST /api/tasks 200"}
+{"level":"info","message":"verifying authorization"}
+{"level":"info","message":"authorization code =Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2NDJiMjQ4YmFmMGUyZjkwNDY1YmNmMGYiLCJpYXQiOjE2ODA2Mzc4OTcsImV4cCI6MTY4MDcyNDI5N30.lZAB889YnlEUmEWIgOlqSiXQ3BY6k_4niAWSNxcFoYI"}
+{"level":"info","message":"Authorized Request"}
+{"level":"info","message":"POST /api/tasks 200"}
+{"level":"info","message":"verifying authorization"}
+{"level":"info","message":"authorization code =Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2NDJiMjQ4YmFmMGUyZjkwNDY1YmNmMGYiLCJpYXQiOjE2ODA2Mzc4OTcsImV4cCI6MTY4MDcyNDI5N30.lZAB889YnlEUmEWIgOlqSiXQ3BY6k_4niAWSNxcFoYI"}
+{"level":"info","message":"Authorized Request"}
 {"level":"info","message":"GET /api/tasks 200"}
+{"level":"info","message":"verifying authorization"}
+{"level":"info","message":"authorization code =Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2NDJiMjQ4YmFmMGUyZjkwNDY1YmNmMGYiLCJpYXQiOjE2ODA2Mzc4OTcsImV4cCI6MTY4MDcyNDI5N30.lZAB889YnlEUmEWIgOlqSiXQ3BY6k_4niAWSNxcFoYI"}
+{"level":"info","message":"Authorized Request"}
+{"level":"info","message":"GET /api/tasks 200"}
+{"level":"info","message":"verifying authorization"}
+{"level":"info","message":"authorization code =Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2NDJiMjQ4YmFmMGUyZjkwNDY1YmNmMGYiLCJpYXQiOjE2ODA2Mzc4OTcsImV4cCI6MTY4MDcyNDI5N30.lZAB889YnlEUmEWIgOlqSiXQ3BY6k_4niAWSNxcFoYI"}
+{"level":"info","message":"Authorized Request"}
+{"level":"info","message":"GET /api/tasks 200"}
+{"level":"info","message":"verifying authorization"}
+{"level":"info","message":"authorization code =Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2NDJiMjQ4YmFmMGUyZjkwNDY1YmNmMGYiLCJpYXQiOjE2ODA2Mzc4OTcsImV4cCI6MTY4MDcyNDI5N30.lZAB889YnlEUmEWIgOlqSiXQ3BY6k_4niAWSNxcFoYI"}
+{"level":"info","message":"Authorized Request"}
+{"level":"info","message":"POST /api/tasks 200"}
+{"level":"info","message":"verifying authorization"}
+{"level":"info","message":"authorization code =Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2NDJiMjQ4YmFmMGUyZjkwNDY1YmNmMGYiLCJpYXQiOjE2ODA2Mzc4OTcsImV4cCI6MTY4MDcyNDI5N30.lZAB889YnlEUmEWIgOlqSiXQ3BY6k_4niAWSNxcFoYI"}
+{"level":"info","message":"Authorized Request"}
+{"level":"info","message":"GET /api/tasks 200"}
+{"level":"info","message":"verifying authorization"}
+{"level":"info","message":"authorization code =Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2NDJiMjQ4YmFmMGUyZjkwNDY1YmNmMGYiLCJpYXQiOjE2ODA2Mzk4NzEsImV4cCI6MTY4MDcyNjI3MX0.83uUcjZ1S9yQrkfp9Qll0T_I7EJyuWdclcWFtgtQDBU"}
+{"level":"info","message":"Authorized Request"}
+{"level":"info","message":"GET /api/tasks 200"}
+{"level":"info","message":"verifying authorization"}
+{"level":"info","message":"authorization code =Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2NDJiMjQ4YmFmMGUyZjkwNDY1YmNmMGYiLCJpYXQiOjE2ODA2Mzk4NzEsImV4cCI6MTY4MDcyNjI3MX0.83uUcjZ1S9yQrkfp9Qll0T_I7EJyuWdclcWFtgtQDBU"}
+{"level":"info","message":"Authorized Request"}
+{"level":"info","message":"POST /api/tasks 200"}
+{"level":"info","message":"verifying authorization"}
+{"level":"info","message":"authorization code =Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2NDJiMjQ4YmFmMGUyZjkwNDY1YmNmMGYiLCJpYXQiOjE2ODA2Mzk4NzEsImV4cCI6MTY4MDcyNjI3MX0.83uUcjZ1S9yQrkfp9Qll0T_I7EJyuWdclcWFtgtQDBU"}
+{"level":"info","message":"Authorized Request"}
+{"level":"info","message":"DELETE /api/tasks/undefined 200"}
+{"level":"info","message":"verifying authorization"}
+{"level":"info","message":"authorization code =Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2NDJiMjQ4YmFmMGUyZjkwNDY1YmNmMGYiLCJpYXQiOjE2ODA2Mzk4NzEsImV4cCI6MTY4MDcyNjI3MX0.83uUcjZ1S9yQrkfp9Qll0T_I7EJyuWdclcWFtgtQDBU"}
+{"level":"info","message":"Authorized Request"}
+{"level":"info","message":"GET /api/tasks 200"}
+{"level":"info","message":"verifying authorization"}
+{"level":"info","message":"authorization code =Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2NDJiMjQ4YmFmMGUyZjkwNDY1YmNmMGYiLCJpYXQiOjE2ODA2Mzk4NzEsImV4cCI6MTY4MDcyNjI3MX0.83uUcjZ1S9yQrkfp9Qll0T_I7EJyuWdclcWFtgtQDBU"}
+{"level":"info","message":"Authorized Request"}
+{"level":"info","message":"GET /api/tasks 200"}
+{"level":"info","message":"verifying authorization"}
+{"level":"info","message":"authorization code =Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2NDJiMjQ4YmFmMGUyZjkwNDY1YmNmMGYiLCJpYXQiOjE2ODA2Mzk4NzEsImV4cCI6MTY4MDcyNjI3MX0.83uUcjZ1S9yQrkfp9Qll0T_I7EJyuWdclcWFtgtQDBU"}
+{"level":"info","message":"Authorized Request"}
+{"level":"info","message":"GET / 200"}
+{"level":"info","message":"GET /api/tasks 200"}
+{"level":"info","message":"verifying authorization"}
+{"level":"info","message":"authorization code =Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2NDJiMjQ4YmFmMGUyZjkwNDY1YmNmMGYiLCJpYXQiOjE2ODA2Mzc4OTcsImV4cCI6MTY4MDcyNDI5N30.lZAB889YnlEUmEWIgOlqSiXQ3BY6k_4niAWSNxcFoYI"}
+{"level":"info","message":"Authorized Request"}
+{"level":"info","message":"GET /api/tasks 200"}
+{"level":"info","message":"verifying authorization"}
+{"level":"info","message":"authorization code =Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2NDJiMjQ4YmFmMGUyZjkwNDY1YmNmMGYiLCJpYXQiOjE2ODA2Mzc4OTcsImV4cCI6MTY4MDcyNDI5N30.lZAB889YnlEUmEWIgOlqSiXQ3BY6k_4niAWSNxcFoYI"}
+{"level":"info","message":"Authorized Request"}
+{"level":"info","message":"POST /api/users/login 200"}
+{"level":"info","message":"GET /api/tasks 200"}
+{"level":"info","message":"verifying authorization"}
+{"level":"info","message":"authorization code =Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2NDJiMjQ4YmFmMGUyZjkwNDY1YmNmMGYiLCJpYXQiOjE2ODA2NDE0MzMsImV4cCI6MTY4MDcyNzgzM30._omD6b3FjETm4Uuy1F6Hq-3PSlU47RDM2B-X12T6TiY"}
+{"level":"info","message":"Authorized Request"}
+{"level":"info","message":"GET /api/tasks 200"}
+{"level":"info","message":"verifying authorization"}
+{"level":"info","message":"authorization code =Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2NDJiMjQ4YmFmMGUyZjkwNDY1YmNmMGYiLCJpYXQiOjE2ODA2NDE0MzMsImV4cCI6MTY4MDcyNzgzM30._omD6b3FjETm4Uuy1F6Hq-3PSlU47RDM2B-X12T6TiY"}
+{"level":"info","message":"Authorized Request"}
+{"level":"info","message":"POST /api/tasks 200"}
+{"level":"info","message":"verifying authorization"}
+{"level":"info","message":"authorization code =Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2NDJiMjQ4YmFmMGUyZjkwNDY1YmNmMGYiLCJpYXQiOjE2ODA2NDE0MzMsImV4cCI6MTY4MDcyNzgzM30._omD6b3FjETm4Uuy1F6Hq-3PSlU47RDM2B-X12T6TiY"}
+{"level":"info","message":"Authorized Request"}
+{"level":"info","message":"GET /api/tasks 200"}
+{"level":"info","message":"verifying authorization"}
+{"level":"info","message":"authorization code =Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2NDJiMjQ4YmFmMGUyZjkwNDY1YmNmMGYiLCJpYXQiOjE2ODA2NDE0MzMsImV4cCI6MTY4MDcyNzgzM30._omD6b3FjETm4Uuy1F6Hq-3PSlU47RDM2B-X12T6TiY"}
+{"level":"info","message":"Authorized Request"}
+{"level":"info","message":"GET /api/tasks 200"}
+{"level":"info","message":"verifying authorization"}
+{"level":"info","message":"authorization code =Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2NDJiMjQ4YmFmMGUyZjkwNDY1YmNmMGYiLCJpYXQiOjE2ODA2NDE0MzMsImV4cCI6MTY4MDcyNzgzM30._omD6b3FjETm4Uuy1F6Hq-3PSlU47RDM2B-X12T6TiY"}
+{"level":"info","message":"Authorized Request"}
+{"level":"info","message":"POST /api/tasks 200"}
+{"level":"info","message":"verifying authorization"}
+{"level":"info","message":"authorization code =Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2NDJiMjQ4YmFmMGUyZjkwNDY1YmNmMGYiLCJpYXQiOjE2ODA2NDE0MzMsImV4cCI6MTY4MDcyNzgzM30._omD6b3FjETm4Uuy1F6Hq-3PSlU47RDM2B-X12T6TiY"}
+{"level":"info","message":"Authorized Request"}
+{"level":"info","message":"GET /api/tasks 200"}
+{"level":"info","message":"verifying authorization"}
+{"level":"info","message":"authorization code =Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2NDJiMjQ4YmFmMGUyZjkwNDY1YmNmMGYiLCJpYXQiOjE2ODA2NDE0MzMsImV4cCI6MTY4MDcyNzgzM30._omD6b3FjETm4Uuy1F6Hq-3PSlU47RDM2B-X12T6TiY"}
+{"level":"info","message":"Authorized Request"}
+{"level":"info","message":"GET /api/tasks 200"}
+{"level":"info","message":"verifying authorization"}
+{"level":"info","message":"authorization code =Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2NDJiMjQ4YmFmMGUyZjkwNDY1YmNmMGYiLCJpYXQiOjE2ODA2NDE0MzMsImV4cCI6MTY4MDcyNzgzM30._omD6b3FjETm4Uuy1F6Hq-3PSlU47RDM2B-X12T6TiY"}
+{"level":"info","message":"Authorized Request"}
+{"level":"info","message":"GET /api/tasks 200"}
+{"level":"info","message":"verifying authorization"}
+{"level":"info","message":"authorization code =Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2NDJiMjQ4YmFmMGUyZjkwNDY1YmNmMGYiLCJpYXQiOjE2ODA2NDE0MzMsImV4cCI6MTY4MDcyNzgzM30._omD6b3FjETm4Uuy1F6Hq-3PSlU47RDM2B-X12T6TiY"}
+{"level":"info","message":"Authorized Request"}
+{"level":"info","message":"GET /api/tasks 200"}
+{"level":"info","message":"verifying authorization"}
+{"level":"info","message":"authorization code =Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2NDJiMjQ4YmFmMGUyZjkwNDY1YmNmMGYiLCJpYXQiOjE2ODA2NDE0MzMsImV4cCI6MTY4MDcyNzgzM30._omD6b3FjETm4Uuy1F6Hq-3PSlU47RDM2B-X12T6TiY"}
+{"level":"info","message":"Authorized Request"}
+{"level":"info","message":"GET /api/tasks 200"}
+{"level":"info","message":"verifying authorization"}
+{"level":"info","message":"authorization code =Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2NDJiMjQ4YmFmMGUyZjkwNDY1YmNmMGYiLCJpYXQiOjE2ODA2NDE0MzMsImV4cCI6MTY4MDcyNzgzM30._omD6b3FjETm4Uuy1F6Hq-3PSlU47RDM2B-X12T6TiY"}
+{"level":"info","message":"Authorized Request"}
+{"level":"info","message":"GET /api/tasks 200"}
+{"level":"info","message":"verifying authorization"}
+{"level":"info","message":"authorization code =Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2NDJiMjQ4YmFmMGUyZjkwNDY1YmNmMGYiLCJpYXQiOjE2ODA2NDE0MzMsImV4cCI6MTY4MDcyNzgzM30._omD6b3FjETm4Uuy1F6Hq-3PSlU47RDM2B-X12T6TiY"}
+{"level":"info","message":"Authorized Request"}
+{"level":"info","message":"GET /api/tasks 200"}
+{"level":"info","message":"verifying authorization"}
+{"level":"info","message":"authorization code =Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2NDJiMjQ4YmFmMGUyZjkwNDY1YmNmMGYiLCJpYXQiOjE2ODA2NDE0MzMsImV4cCI6MTY4MDcyNzgzM30._omD6b3FjETm4Uuy1F6Hq-3PSlU47RDM2B-X12T6TiY"}
+{"level":"info","message":"Authorized Request"}
+{"level":"info","message":"GET /api/tasks 200"}
+{"level":"info","message":"verifying authorization"}
+{"level":"info","message":"authorization code =Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2NDJiMjQ4YmFmMGUyZjkwNDY1YmNmMGYiLCJpYXQiOjE2ODA2NDE0MzMsImV4cCI6MTY4MDcyNzgzM30._omD6b3FjETm4Uuy1F6Hq-3PSlU47RDM2B-X12T6TiY"}
+{"level":"info","message":"Authorized Request"}
+{"level":"info","message":"GET /api/tasks 200"}
+{"level":"info","message":"verifying authorization"}
+{"level":"info","message":"authorization code =Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2NDJiMjQ4YmFmMGUyZjkwNDY1YmNmMGYiLCJpYXQiOjE2ODA2NDE0MzMsImV4cCI6MTY4MDcyNzgzM30._omD6b3FjETm4Uuy1F6Hq-3PSlU47RDM2B-X12T6TiY"}
+{"level":"info","message":"Authorized Request"}
+{"level":"info","message":"DELETE /api/tasks/642c8df44ee7c74d4ca65bf5 200"}
+{"level":"info","message":"verifying authorization"}
+{"level":"info","message":"authorization code =Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2NDJiMjQ4YmFmMGUyZjkwNDY1YmNmMGYiLCJpYXQiOjE2ODA2NDE0MzMsImV4cCI6MTY4MDcyNzgzM30._omD6b3FjETm4Uuy1F6Hq-3PSlU47RDM2B-X12T6TiY"}
+{"level":"info","message":"Authorized Request"}
+{"level":"info","message":"GET /api/tasks 200"}
+{"level":"info","message":"verifying authorization"}
+{"level":"info","message":"authorization code =Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2NDJiMjQ4YmFmMGUyZjkwNDY1YmNmMGYiLCJpYXQiOjE2ODA2NDE0MzMsImV4cCI6MTY4MDcyNzgzM30._omD6b3FjETm4Uuy1F6Hq-3PSlU47RDM2B-X12T6TiY"}
+{"level":"info","message":"Authorized Request"}
+{"level":"info","message":"GET /api/tasks 200"}
+{"level":"info","message":"verifying authorization"}
+{"level":"info","message":"authorization code =Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2NDJiMjQ4YmFmMGUyZjkwNDY1YmNmMGYiLCJpYXQiOjE2ODA2NDE0MzMsImV4cCI6MTY4MDcyNzgzM30._omD6b3FjETm4Uuy1F6Hq-3PSlU47RDM2B-X12T6TiY"}
+{"level":"info","message":"Authorized Request"}
+{"level":"info","message":"GET /api/tasks 200"}
+{"level":"info","message":"verifying authorization"}
+{"level":"info","message":"authorization code =Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2NDJiMjQ4YmFmMGUyZjkwNDY1YmNmMGYiLCJpYXQiOjE2ODA2NDE0MzMsImV4cCI6MTY4MDcyNzgzM30._omD6b3FjETm4Uuy1F6Hq-3PSlU47RDM2B-X12T6TiY"}
+{"level":"info","message":"Authorized Request"}
+{"level":"info","message":"POST /api/tasks 200"}
+{"level":"info","message":"verifying authorization"}
+{"level":"info","message":"authorization code =Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2NDJiMjQ4YmFmMGUyZjkwNDY1YmNmMGYiLCJpYXQiOjE2ODA2NDE0MzMsImV4cCI6MTY4MDcyNzgzM30._omD6b3FjETm4Uuy1F6Hq-3PSlU47RDM2B-X12T6TiY"}
+{"level":"info","message":"Authorized Request"}
+{"level":"info","message":"DELETE /api/tasks/undefined 200"}
+{"level":"info","message":"verifying authorization"}
+{"level":"info","message":"authorization code =Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2NDJiMjQ4YmFmMGUyZjkwNDY1YmNmMGYiLCJpYXQiOjE2ODA2NDE0MzMsImV4cCI6MTY4MDcyNzgzM30._omD6b3FjETm4Uuy1F6Hq-3PSlU47RDM2B-X12T6TiY"}
+{"level":"info","message":"Authorized Request"}
+{"level":"info","message":"POST /api/tasks 200"}
+{"level":"info","message":"verifying authorization"}
+{"level":"info","message":"authorization code =Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2NDJiMjQ4YmFmMGUyZjkwNDY1YmNmMGYiLCJpYXQiOjE2ODA2NDE0MzMsImV4cCI6MTY4MDcyNzgzM30._omD6b3FjETm4Uuy1F6Hq-3PSlU47RDM2B-X12T6TiY"}
+{"level":"info","message":"Authorized Request"}
+{"level":"info","message":"GET /api/tasks 200"}
+{"level":"info","message":"verifying authorization"}
+{"level":"info","message":"authorization code =Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2NDJiMjQ4YmFmMGUyZjkwNDY1YmNmMGYiLCJpYXQiOjE2ODA2NDE0MzMsImV4cCI6MTY4MDcyNzgzM30._omD6b3FjETm4Uuy1F6Hq-3PSlU47RDM2B-X12T6TiY"}
+{"level":"info","message":"Authorized Request"}
+{"level":"info","message":"GET /api/tasks 200"}
+{"level":"info","message":"verifying authorization"}
+{"level":"info","message":"authorization code =Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2NDJiMjQ4YmFmMGUyZjkwNDY1YmNmMGYiLCJpYXQiOjE2ODA2NDE0MzMsImV4cCI6MTY4MDcyNzgzM30._omD6b3FjETm4Uuy1F6Hq-3PSlU47RDM2B-X12T6TiY"}
+{"level":"info","message":"Authorized Request"}
+{"level":"info","message":"GET /api/tasks 200"}
+{"level":"info","message":"verifying authorization"}
+{"level":"info","message":"authorization code =Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2NDJiMjQ4YmFmMGUyZjkwNDY1YmNmMGYiLCJpYXQiOjE2ODA2NDE0MzMsImV4cCI6MTY4MDcyNzgzM30._omD6b3FjETm4Uuy1F6Hq-3PSlU47RDM2B-X12T6TiY"}
+{"level":"info","message":"Authorized Request"}
+{"level":"info","message":"POST /api/tasks 200"}
+{"level":"info","message":"verifying authorization"}
+{"level":"info","message":"authorization code =Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2NDJiMjQ4YmFmMGUyZjkwNDY1YmNmMGYiLCJpYXQiOjE2ODA2NDE0MzMsImV4cCI6MTY4MDcyNzgzM30._omD6b3FjETm4Uuy1F6Hq-3PSlU47RDM2B-X12T6TiY"}
+{"level":"info","message":"Authorized Request"}
+{"level":"info","message":"GET /api/tasks 200"}
+{"level":"info","message":"verifying authorization"}
+{"level":"info","message":"authorization code =Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2NDJiMjQ4YmFmMGUyZjkwNDY1YmNmMGYiLCJpYXQiOjE2ODA2NDE0MzMsImV4cCI6MTY4MDcyNzgzM30._omD6b3FjETm4Uuy1F6Hq-3PSlU47RDM2B-X12T6TiY"}
+{"level":"info","message":"Authorized Request"}
+{"level":"info","message":"GET /api/tasks 200"}
+{"level":"info","message":"verifying authorization"}
+{"level":"info","message":"authorization code =Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2NDJiMjQ4YmFmMGUyZjkwNDY1YmNmMGYiLCJpYXQiOjE2ODA2NDE0MzMsImV4cCI6MTY4MDcyNzgzM30._omD6b3FjETm4Uuy1F6Hq-3PSlU47RDM2B-X12T6TiY"}
+{"level":"info","message":"Authorized Request"}
+{"level":"info","message":"GET /api/tasks 200"}
+{"level":"info","message":"verifying authorization"}
+{"level":"info","message":"authorization code =Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2NDJiMjQ4YmFmMGUyZjkwNDY1YmNmMGYiLCJpYXQiOjE2ODA2NDE0MzMsImV4cCI6MTY4MDcyNzgzM30._omD6b3FjETm4Uuy1F6Hq-3PSlU47RDM2B-X12T6TiY"}
+{"level":"info","message":"Authorized Request"}
+{"level":"info","message":"POST /api/tasks 200"}
+{"level":"info","message":"verifying authorization"}
+{"level":"info","message":"authorization code =Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2NDJiMjQ4YmFmMGUyZjkwNDY1YmNmMGYiLCJpYXQiOjE2ODA2NDE0MzMsImV4cCI6MTY4MDcyNzgzM30._omD6b3FjETm4Uuy1F6Hq-3PSlU47RDM2B-X12T6TiY"}
+{"level":"info","message":"Authorized Request"}
+{"level":"info","message":"GET /api/tasks 200"}
+{"level":"info","message":"verifying authorization"}
+{"level":"info","message":"authorization code =Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2NDJiMjQ4YmFmMGUyZjkwNDY1YmNmMGYiLCJpYXQiOjE2ODA2NDE0MzMsImV4cCI6MTY4MDcyNzgzM30._omD6b3FjETm4Uuy1F6Hq-3PSlU47RDM2B-X12T6TiY"}
+{"level":"info","message":"Authorized Request"}
+{"level":"info","message":"GET /api/tasks 200"}
+{"level":"info","message":"verifying authorization"}
+{"level":"info","message":"authorization code =Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2NDJiMjQ4YmFmMGUyZjkwNDY1YmNmMGYiLCJpYXQiOjE2ODA2NDE0MzMsImV4cCI6MTY4MDcyNzgzM30._omD6b3FjETm4Uuy1F6Hq-3PSlU47RDM2B-X12T6TiY"}
+{"level":"info","message":"Authorized Request"}
+{"level":"info","message":"DELETE /api/tasks/642c8e8b4ee7c74d4ca65c28 200"}
+{"level":"info","message":"verifying authorization"}
+{"level":"info","message":"authorization code =Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2NDJiMjQ4YmFmMGUyZjkwNDY1YmNmMGYiLCJpYXQiOjE2ODA2NDE0MzMsImV4cCI6MTY4MDcyNzgzM30._omD6b3FjETm4Uuy1F6Hq-3PSlU47RDM2B-X12T6TiY"}
+{"level":"info","message":"Authorized Request"}
+{"level":"info","message":"DELETE /api/tasks/642c8e6b4ee7c74d4ca65c16 200"}
+{"level":"info","message":"verifying authorization"}
+{"level":"info","message":"authorization code =Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2NDJiMjQ4YmFmMGUyZjkwNDY1YmNmMGYiLCJpYXQiOjE2ODA2NDE0MzMsImV4cCI6MTY4MDcyNzgzM30._omD6b3FjETm4Uuy1F6Hq-3PSlU47RDM2B-X12T6TiY"}
+{"level":"info","message":"Authorized Request"}
+{"level":"info","message":"GET /api/tasks 200"}
+{"level":"info","message":"verifying authorization"}
+{"level":"info","message":"authorization code =Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2NDJiMjQ4YmFmMGUyZjkwNDY1YmNmMGYiLCJpYXQiOjE2ODA2NDE0MzMsImV4cCI6MTY4MDcyNzgzM30._omD6b3FjETm4Uuy1F6Hq-3PSlU47RDM2B-X12T6TiY"}
+{"level":"info","message":"Authorized Request"}
+{"level":"info","message":"GET /api/tasks 200"}
+{"level":"info","message":"verifying authorization"}
+{"level":"info","message":"authorization code =Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2NDJiMjQ4YmFmMGUyZjkwNDY1YmNmMGYiLCJpYXQiOjE2ODA2NDE0MzMsImV4cCI6MTY4MDcyNzgzM30._omD6b3FjETm4Uuy1F6Hq-3PSlU47RDM2B-X12T6TiY"}
+{"level":"info","message":"Authorized Request"}
+{"level":"info","message":"POST /api/users/login 200"}
+{"level":"info","message":"POST /api/users/signup 200"}
+{"level":"info","message":"POST /api/users/login 200"}
+{"level":"info","message":"GET /api/tasks 200"}
+{"level":"info","message":"verifying authorization"}
+{"level":"info","message":"authorization code =Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2NDJiMjY5OWFmMGUyZjkwNDY1YmNmMjQiLCJpYXQiOjE2ODA2NDE3MzAsImV4cCI6MTY4MDcyODEzMH0.wOOGUnN9GORD9Kn7letiziLNJXf-eDGvzBiLSVSEe6o"}
+{"level":"info","message":"Authorized Request"}
+{"level":"info","message":"GET /api/tasks 200"}
+{"level":"info","message":"verifying authorization"}
+{"level":"info","message":"authorization code =Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2NDJiMjY5OWFmMGUyZjkwNDY1YmNmMjQiLCJpYXQiOjE2ODA2NDE3MzAsImV4cCI6MTY4MDcyODEzMH0.wOOGUnN9GORD9Kn7letiziLNJXf-eDGvzBiLSVSEe6o"}
+{"level":"info","message":"Authorized Request"}
+{"level":"info","message":"POST /api/tasks 200"}
+{"level":"info","message":"verifying authorization"}
+{"level":"info","message":"authorization code =Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2NDJiMjY5OWFmMGUyZjkwNDY1YmNmMjQiLCJpYXQiOjE2ODA2NDE3MzAsImV4cCI6MTY4MDcyODEzMH0.wOOGUnN9GORD9Kn7letiziLNJXf-eDGvzBiLSVSEe6o"}
+{"level":"info","message":"Authorized Request"}
+{"level":"info","message":"GET /api/tasks 200"}
+{"level":"info","message":"verifying authorization"}
+{"level":"info","message":"authorization code =Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2NDJiMjY5OWFmMGUyZjkwNDY1YmNmMjQiLCJpYXQiOjE2ODA2NDE3MzAsImV4cCI6MTY4MDcyODEzMH0.wOOGUnN9GORD9Kn7letiziLNJXf-eDGvzBiLSVSEe6o"}
+{"level":"info","message":"Authorized Request"}
+{"level":"info","message":"GET /api/tasks 200"}
+{"level":"info","message":"verifying authorization"}
+{"level":"info","message":"authorization code =Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2NDJiMjY5OWFmMGUyZjkwNDY1YmNmMjQiLCJpYXQiOjE2ODA2NDE3MzAsImV4cCI6MTY4MDcyODEzMH0.wOOGUnN9GORD9Kn7letiziLNJXf-eDGvzBiLSVSEe6o"}
+{"level":"info","message":"Authorized Request"}
+{"level":"info","message":"POST /api/tasks 200"}
+{"level":"info","message":"verifying authorization"}
+{"level":"info","message":"authorization code =Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2NDJiMjY5OWFmMGUyZjkwNDY1YmNmMjQiLCJpYXQiOjE2ODA2NDE3MzAsImV4cCI6MTY4MDcyODEzMH0.wOOGUnN9GORD9Kn7letiziLNJXf-eDGvzBiLSVSEe6o"}
+{"level":"info","message":"Authorized Request"}
+{"level":"info","message":"GET /api/tasks 200"}
+{"level":"info","message":"verifying authorization"}
+{"level":"info","message":"authorization code =Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2NDJiMjY5OWFmMGUyZjkwNDY1YmNmMjQiLCJpYXQiOjE2ODA2NDE3MzAsImV4cCI6MTY4MDcyODEzMH0.wOOGUnN9GORD9Kn7letiziLNJXf-eDGvzBiLSVSEe6o"}
+{"level":"info","message":"Authorized Request"}
+{"level":"info","message":"GET /api/tasks 200"}
+{"level":"info","message":"verifying authorization"}
+{"level":"info","message":"authorization code =Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2NDJiMjY5OWFmMGUyZjkwNDY1YmNmMjQiLCJpYXQiOjE2ODA2NDE3MzAsImV4cCI6MTY4MDcyODEzMH0.wOOGUnN9GORD9Kn7letiziLNJXf-eDGvzBiLSVSEe6o"}
+{"level":"info","message":"Authorized Request"}
+{"level":"info","message":"POST /api/tasks 200"}
+{"level":"info","message":"verifying authorization"}
+{"level":"info","message":"authorization code =Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2NDJiMjY5OWFmMGUyZjkwNDY1YmNmMjQiLCJpYXQiOjE2ODA2NDE3MzAsImV4cCI6MTY4MDcyODEzMH0.wOOGUnN9GORD9Kn7letiziLNJXf-eDGvzBiLSVSEe6o"}
+{"level":"info","message":"Authorized Request"}
+{"level":"info","message":"POST /api/tasks 200"}
+{"level":"info","message":"verifying authorization"}
+{"level":"info","message":"authorization code =Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2NDJiMjY5OWFmMGUyZjkwNDY1YmNmMjQiLCJpYXQiOjE2ODA2NDE3MzAsImV4cCI6MTY4MDcyODEzMH0.wOOGUnN9GORD9Kn7letiziLNJXf-eDGvzBiLSVSEe6o"}
+{"level":"info","message":"Authorized Request"}
+{"level":"info","message":"GET /api/tasks 200"}
+{"level":"info","message":"verifying authorization"}
+{"level":"info","message":"authorization code =Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2NDJiMjY5OWFmMGUyZjkwNDY1YmNmMjQiLCJpYXQiOjE2ODA2NDE3MzAsImV4cCI6MTY4MDcyODEzMH0.wOOGUnN9GORD9Kn7letiziLNJXf-eDGvzBiLSVSEe6o"}
+{"level":"info","message":"Authorized Request"}
+{"level":"info","message":"POST /api/tasks 200"}
+{"level":"info","message":"verifying authorization"}
+{"level":"info","message":"authorization code =Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2NDJiMjY5OWFmMGUyZjkwNDY1YmNmMjQiLCJpYXQiOjE2ODA2NDE3MzAsImV4cCI6MTY4MDcyODEzMH0.wOOGUnN9GORD9Kn7letiziLNJXf-eDGvzBiLSVSEe6o"}
+{"level":"info","message":"Authorized Request"}
+{"level":"info","message":"POST /api/tasks 200"}
+{"level":"info","message":"verifying authorization"}
+{"level":"info","message":"authorization code =Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2NDJiMjY5OWFmMGUyZjkwNDY1YmNmMjQiLCJpYXQiOjE2ODA2NDE3MzAsImV4cCI6MTY4MDcyODEzMH0.wOOGUnN9GORD9Kn7letiziLNJXf-eDGvzBiLSVSEe6o"}
+{"level":"info","message":"Authorized Request"}
+{"level":"info","message":"DELETE /api/tasks/undefined 200"}
+{"level":"info","message":"verifying authorization"}
+{"level":"info","message":"authorization code =Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2NDJiMjY5OWFmMGUyZjkwNDY1YmNmMjQiLCJpYXQiOjE2ODA2NDE3MzAsImV4cCI6MTY4MDcyODEzMH0.wOOGUnN9GORD9Kn7letiziLNJXf-eDGvzBiLSVSEe6o"}
+{"level":"info","message":"Authorized Request"}
+{"level":"info","message":"DELETE /api/tasks/undefined 200"}
+{"level":"info","message":"verifying authorization"}
+{"level":"info","message":"authorization code =Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2NDJiMjY5OWFmMGUyZjkwNDY1YmNmMjQiLCJpYXQiOjE2ODA2NDE3MzAsImV4cCI6MTY4MDcyODEzMH0.wOOGUnN9GORD9Kn7letiziLNJXf-eDGvzBiLSVSEe6o"}
+{"level":"info","message":"Authorized Request"}
+{"level":"info","message":"DELETE /api/tasks/undefined 200"}
+{"level":"info","message":"verifying authorization"}
+{"level":"info","message":"authorization code =Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2NDJiMjY5OWFmMGUyZjkwNDY1YmNmMjQiLCJpYXQiOjE2ODA2NDE3MzAsImV4cCI6MTY4MDcyODEzMH0.wOOGUnN9GORD9Kn7letiziLNJXf-eDGvzBiLSVSEe6o"}
+{"level":"info","message":"Authorized Request"}
+{"level":"info","message":"DELETE /api/tasks/undefined 200"}
+{"level":"info","message":"verifying authorization"}
+{"level":"info","message":"authorization code =Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2NDJiMjY5OWFmMGUyZjkwNDY1YmNmMjQiLCJpYXQiOjE2ODA2NDE3MzAsImV4cCI6MTY4MDcyODEzMH0.wOOGUnN9GORD9Kn7letiziLNJXf-eDGvzBiLSVSEe6o"}
+{"level":"info","message":"Authorized Request"}
+{"level":"info","message":"DELETE /api/tasks/undefined 200"}
+{"level":"info","message":"verifying authorization"}
+{"level":"info","message":"authorization code =Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2NDJiMjY5OWFmMGUyZjkwNDY1YmNmMjQiLCJpYXQiOjE2ODA2NDE3MzAsImV4cCI6MTY4MDcyODEzMH0.wOOGUnN9GORD9Kn7letiziLNJXf-eDGvzBiLSVSEe6o"}
+{"level":"info","message":"Authorized Request"}
+{"level":"info","message":"DELETE /api/tasks/undefined 200"}
+{"level":"info","message":"verifying authorization"}
+{"level":"info","message":"authorization code =Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2NDJiMjY5OWFmMGUyZjkwNDY1YmNmMjQiLCJpYXQiOjE2ODA2NDE3MzAsImV4cCI6MTY4MDcyODEzMH0.wOOGUnN9GORD9Kn7letiziLNJXf-eDGvzBiLSVSEe6o"}
+{"level":"info","message":"Authorized Request"}
+{"level":"info","message":"DELETE /api/tasks/undefined 200"}
+{"level":"info","message":"verifying authorization"}
+{"level":"info","message":"authorization code =Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2NDJiMjY5OWFmMGUyZjkwNDY1YmNmMjQiLCJpYXQiOjE2ODA2NDE3MzAsImV4cCI6MTY4MDcyODEzMH0.wOOGUnN9GORD9Kn7letiziLNJXf-eDGvzBiLSVSEe6o"}
+{"level":"info","message":"Authorized Request"}
+{"level":"info","message":"DELETE /api/tasks/undefined 200"}
+{"level":"info","message":"verifying authorization"}
+{"level":"info","message":"authorization code =Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2NDJiMjY5OWFmMGUyZjkwNDY1YmNmMjQiLCJpYXQiOjE2ODA2NDE3MzAsImV4cCI6MTY4MDcyODEzMH0.wOOGUnN9GORD9Kn7letiziLNJXf-eDGvzBiLSVSEe6o"}
+{"level":"info","message":"Authorized Request"}
+{"level":"info","message":"DELETE /api/tasks/undefined 200"}
+{"level":"info","message":"verifying authorization"}
+{"level":"info","message":"authorization code =Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2NDJiMjY5OWFmMGUyZjkwNDY1YmNmMjQiLCJpYXQiOjE2ODA2NDE3MzAsImV4cCI6MTY4MDcyODEzMH0.wOOGUnN9GORD9Kn7letiziLNJXf-eDGvzBiLSVSEe6o"}
+{"level":"info","message":"Authorized Request"}
+{"level":"info","message":"DELETE /api/tasks/undefined 200"}
+{"level":"info","message":"verifying authorization"}
+{"level":"info","message":"authorization code =Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2NDJiMjY5OWFmMGUyZjkwNDY1YmNmMjQiLCJpYXQiOjE2ODA2NDE3MzAsImV4cCI6MTY4MDcyODEzMH0.wOOGUnN9GORD9Kn7letiziLNJXf-eDGvzBiLSVSEe6o"}
+{"level":"info","message":"Authorized Request"}
+{"level":"info","message":"DELETE /api/tasks/642c8ec84ee7c74d4ca65c3e 200"}
+{"level":"info","message":"verifying authorization"}
+{"level":"info","message":"authorization code =Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2NDJiMjY5OWFmMGUyZjkwNDY1YmNmMjQiLCJpYXQiOjE2ODA2NDE3MzAsImV4cCI6MTY4MDcyODEzMH0.wOOGUnN9GORD9Kn7letiziLNJXf-eDGvzBiLSVSEe6o"}
+{"level":"info","message":"Authorized Request"}
+{"level":"info","message":"DELETE /api/tasks/642c8ed04ee7c74d4ca65c45 200"}
+{"level":"info","message":"verifying authorization"}
+{"level":"info","message":"authorization code =Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2NDJiMjY5OWFmMGUyZjkwNDY1YmNmMjQiLCJpYXQiOjE2ODA2NDE3MzAsImV4cCI6MTY4MDcyODEzMH0.wOOGUnN9GORD9Kn7letiziLNJXf-eDGvzBiLSVSEe6o"}
+{"level":"info","message":"Authorized Request"}
+{"level":"info","message":"DELETE /api/tasks/642c8ed04ee7c74d4ca65c45 200"}
+{"level":"info","message":"verifying authorization"}
+{"level":"info","message":"authorization code =Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2NDJiMjY5OWFmMGUyZjkwNDY1YmNmMjQiLCJpYXQiOjE2ODA2NDE3MzAsImV4cCI6MTY4MDcyODEzMH0.wOOGUnN9GORD9Kn7letiziLNJXf-eDGvzBiLSVSEe6o"}
+{"level":"info","message":"Authorized Request"}
+{"level":"info","message":"DELETE /api/tasks/642c8ed04ee7c74d4ca65c45 200"}
+{"level":"info","message":"verifying authorization"}
+{"level":"info","message":"authorization code =Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2NDJiMjY5OWFmMGUyZjkwNDY1YmNmMjQiLCJpYXQiOjE2ODA2NDE3MzAsImV4cCI6MTY4MDcyODEzMH0.wOOGUnN9GORD9Kn7letiziLNJXf-eDGvzBiLSVSEe6o"}
+{"level":"info","message":"Authorized Request"}
+{"level":"info","message":"DELETE /api/tasks/642c8f904ee7c74d4ca65c4c 200"}
+{"level":"info","message":"verifying authorization"}
+{"level":"info","message":"authorization code =Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2NDJiMjY5OWFmMGUyZjkwNDY1YmNmMjQiLCJpYXQiOjE2ODA2NDE3MzAsImV4cCI6MTY4MDcyODEzMH0.wOOGUnN9GORD9Kn7letiziLNJXf-eDGvzBiLSVSEe6o"}
+{"level":"info","message":"Authorized Request"}
+{"level":"info","message":"DELETE /api/tasks/642c8f904ee7c74d4ca65c4c 200"}
+{"level":"info","message":"verifying authorization"}
+{"level":"info","message":"authorization code =Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2NDJiMjY5OWFmMGUyZjkwNDY1YmNmMjQiLCJpYXQiOjE2ODA2NDE3MzAsImV4cCI6MTY4MDcyODEzMH0.wOOGUnN9GORD9Kn7letiziLNJXf-eDGvzBiLSVSEe6o"}
+{"level":"info","message":"Authorized Request"}
+{"level":"info","message":"DELETE /api/tasks/642c8fc24ee7c74d4ca65c4f 200"}
+{"level":"info","message":"verifying authorization"}
+{"level":"info","message":"authorization code =Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2NDJiMjY5OWFmMGUyZjkwNDY1YmNmMjQiLCJpYXQiOjE2ODA2NDE3MzAsImV4cCI6MTY4MDcyODEzMH0.wOOGUnN9GORD9Kn7letiziLNJXf-eDGvzBiLSVSEe6o"}
+{"level":"info","message":"Authorized Request"}
+{"level":"info","message":"GET /api/tasks 200"}
+{"level":"info","message":"verifying authorization"}
+{"level":"info","message":"authorization code =Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2NDJiMjY5OWFmMGUyZjkwNDY1YmNmMjQiLCJpYXQiOjE2ODA2NDE3MzAsImV4cCI6MTY4MDcyODEzMH0.wOOGUnN9GORD9Kn7letiziLNJXf-eDGvzBiLSVSEe6o"}
+{"level":"info","message":"Authorized Request"}
+{"level":"info","message":"GET /api/tasks 200"}
+{"level":"info","message":"verifying authorization"}
+{"level":"info","message":"authorization code =Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2NDJiMjY5OWFmMGUyZjkwNDY1YmNmMjQiLCJpYXQiOjE2ODA2NDE3MzAsImV4cCI6MTY4MDcyODEzMH0.wOOGUnN9GORD9Kn7letiziLNJXf-eDGvzBiLSVSEe6o"}
+{"level":"info","message":"Authorized Request"}
+{"level":"info","message":"GET /api/tasks 200"}
+{"level":"info","message":"verifying authorization"}
+{"level":"info","message":"authorization code =Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2NDJiMjY5OWFmMGUyZjkwNDY1YmNmMjQiLCJpYXQiOjE2ODA2NDE3MzAsImV4cCI6MTY4MDcyODEzMH0.wOOGUnN9GORD9Kn7letiziLNJXf-eDGvzBiLSVSEe6o"}
+{"level":"info","message":"Authorized Request"}
+{"level":"info","message":"POST /api/tasks 200"}
+{"level":"info","message":"verifying authorization"}
+{"level":"info","message":"authorization code =Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2NDJiMjY5OWFmMGUyZjkwNDY1YmNmMjQiLCJpYXQiOjE2ODA2NDE3MzAsImV4cCI6MTY4MDcyODEzMH0.wOOGUnN9GORD9Kn7letiziLNJXf-eDGvzBiLSVSEe6o"}
+{"level":"info","message":"Authorized Request"}
+{"level":"info","message":"DELETE /api/tasks/undefined 200"}
+{"level":"info","message":"verifying authorization"}
+{"level":"info","message":"authorization code =Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2NDJiMjY5OWFmMGUyZjkwNDY1YmNmMjQiLCJpYXQiOjE2ODA2NDE3MzAsImV4cCI6MTY4MDcyODEzMH0.wOOGUnN9GORD9Kn7letiziLNJXf-eDGvzBiLSVSEe6o"}
+{"level":"info","message":"Authorized Request"}
+{"level":"info","message":"POST /api/tasks 200"}
+{"level":"info","message":"verifying authorization"}
+{"level":"info","message":"authorization code =Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2NDJiMjY5OWFmMGUyZjkwNDY1YmNmMjQiLCJpYXQiOjE2ODA2NDE3MzAsImV4cCI6MTY4MDcyODEzMH0.wOOGUnN9GORD9Kn7letiziLNJXf-eDGvzBiLSVSEe6o"}
+{"level":"info","message":"Authorized Request"}
+{"level":"info","message":"GET /api/tasks 200"}
+{"level":"info","message":"verifying authorization"}
+{"level":"info","message":"authorization code =Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2NDJiMjQ4YmFmMGUyZjkwNDY1YmNmMGYiLCJpYXQiOjE2ODA2Mzk4NzEsImV4cCI6MTY4MDcyNjI3MX0.83uUcjZ1S9yQrkfp9Qll0T_I7EJyuWdclcWFtgtQDBU"}
+{"level":"info","message":"Authorized Request"}
+{"level":"info","message":"GET /main.026d472f8046ccf4a5c2.hot-update.json 200"}
+{"level":"info","message":"GET /api/tasks 200"}
+{"level":"info","message":"verifying authorization"}
+{"level":"info","message":"authorization code =Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2NDJiMjY5OWFmMGUyZjkwNDY1YmNmMjQiLCJpYXQiOjE2ODA2NDE3MzAsImV4cCI6MTY4MDcyODEzMH0.wOOGUnN9GORD9Kn7letiziLNJXf-eDGvzBiLSVSEe6o"}
+{"level":"info","message":"Authorized Request"}
+{"level":"info","message":"POST /api/tasks 200"}
+{"level":"info","message":"verifying authorization"}
+{"level":"info","message":"authorization code =Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2NDJiMjQ4YmFmMGUyZjkwNDY1YmNmMGYiLCJpYXQiOjE2ODA2Mzk4NzEsImV4cCI6MTY4MDcyNjI3MX0.83uUcjZ1S9yQrkfp9Qll0T_I7EJyuWdclcWFtgtQDBU"}
+{"level":"info","message":"Authorized Request"}
+{"level":"info","message":"GET /api/tasks 200"}
+{"level":"info","message":"verifying authorization"}
+{"level":"info","message":"authorization code =Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2NDJiMjQ4YmFmMGUyZjkwNDY1YmNmMGYiLCJpYXQiOjE2ODA2Mzk4NzEsImV4cCI6MTY4MDcyNjI3MX0.83uUcjZ1S9yQrkfp9Qll0T_I7EJyuWdclcWFtgtQDBU"}
+{"level":"info","message":"Authorized Request"}
+{"level":"info","message":"GET /api/tasks 200"}
+{"level":"info","message":"verifying authorization"}
+{"level":"info","message":"authorization code =Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2NDJiMjY5OWFmMGUyZjkwNDY1YmNmMjQiLCJpYXQiOjE2ODA2NDE3MzAsImV4cCI6MTY4MDcyODEzMH0.wOOGUnN9GORD9Kn7letiziLNJXf-eDGvzBiLSVSEe6o"}
+{"level":"info","message":"Authorized Request"}
+{"level":"info","message":"GET /api/tasks 200"}
+{"level":"info","message":"verifying authorization"}
+{"level":"info","message":"authorization code =Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2NDJiMjQ4YmFmMGUyZjkwNDY1YmNmMGYiLCJpYXQiOjE2ODA2Mzk4NzEsImV4cCI6MTY4MDcyNjI3MX0.83uUcjZ1S9yQrkfp9Qll0T_I7EJyuWdclcWFtgtQDBU"}
+{"level":"info","message":"Authorized Request"}
+{"level":"info","message":"POST /api/tasks 200"}
+{"level":"info","message":"verifying authorization"}
+{"level":"info","message":"authorization code =Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2NDJiMjQ4YmFmMGUyZjkwNDY1YmNmMGYiLCJpYXQiOjE2ODA2Mzk4NzEsImV4cCI6MTY4MDcyNjI3MX0.83uUcjZ1S9yQrkfp9Qll0T_I7EJyuWdclcWFtgtQDBU"}
+{"level":"info","message":"Authorized Request"}
+{"level":"info","message":"GET /api/tasks 200"}
+{"level":"info","message":"verifying authorization"}
+{"level":"info","message":"authorization code =Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2NDJiMjQ4YmFmMGUyZjkwNDY1YmNmMGYiLCJpYXQiOjE2ODA2Mzk4NzEsImV4cCI6MTY4MDcyNjI3MX0.83uUcjZ1S9yQrkfp9Qll0T_I7EJyuWdclcWFtgtQDBU"}
+{"level":"info","message":"Authorized Request"}
+{"level":"info","message":"GET /api/tasks 200"}
+{"level":"info","message":"verifying authorization"}
+{"level":"info","message":"authorization code =Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2NDJiMjQ4YmFmMGUyZjkwNDY1YmNmMGYiLCJpYXQiOjE2ODA2Mzk4NzEsImV4cCI6MTY4MDcyNjI3MX0.83uUcjZ1S9yQrkfp9Qll0T_I7EJyuWdclcWFtgtQDBU"}
+{"level":"info","message":"Authorized Request"}
+{"level":"info","message":"POST /api/tasks 200"}
+{"level":"info","message":"verifying authorization"}
+{"level":"info","message":"authorization code =Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2NDJiMjQ4YmFmMGUyZjkwNDY1YmNmMGYiLCJpYXQiOjE2ODA2Mzk4NzEsImV4cCI6MTY4MDcyNjI3MX0.83uUcjZ1S9yQrkfp9Qll0T_I7EJyuWdclcWFtgtQDBU"}
+{"level":"info","message":"Authorized Request"}
+{"level":"info","message":"GET /api/tasks 200"}
+{"level":"info","message":"verifying authorization"}
+{"level":"info","message":"authorization code =Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2NDJiMjQ4YmFmMGUyZjkwNDY1YmNmMGYiLCJpYXQiOjE2ODA2Mzk4NzEsImV4cCI6MTY4MDcyNjI3MX0.83uUcjZ1S9yQrkfp9Qll0T_I7EJyuWdclcWFtgtQDBU"}
+{"level":"info","message":"Authorized Request"}
+{"level":"info","message":"loading data from db"}
+{"level":"info","message":"Error: Server at localhost:11211 not available"}
+{"level":"info","message":"caching response under key=__express__/api/tasks"}
+{"level":"info","message":"loading data from db"}
+{"level":"info","message":"Error: Server at localhost:11211 not available"}
+{"level":"info","message":"caching response under key=__express__/api/tasks"}
+{"level":"info","message":"GET /api/tasks 200"}
+{"level":"info","message":"verifying authorization"}
+{"level":"info","message":"authorization code =Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2NDJiMjY5OWFmMGUyZjkwNDY1YmNmMjQiLCJpYXQiOjE2ODA2NDE3MzAsImV4cCI6MTY4MDcyODEzMH0.wOOGUnN9GORD9Kn7letiziLNJXf-eDGvzBiLSVSEe6o"}
+{"level":"info","message":"Authorized Request"}
+{"level":"info","message":"loading data from db"}
+{"level":"info","message":"Error: Server at localhost:11211 not available"}
+{"level":"info","message":"caching response under key=__express__/api/tasks"}
+{"level":"info","message":"loading data from db"}
+{"level":"info","message":"Error: Server at localhost:11211 not available"}
+{"level":"info","message":"caching response under key=__express__/api/tasks"}
+{"level":"info","message":"loading data from db"}
+{"level":"info","message":"Error: Server at localhost:11211 not available"}
+{"level":"info","message":"caching response under key=__express__/api/tasks"}
+{"level":"info","message":"loading data from db"}
+{"level":"info","message":"Error: Server at localhost:11211 not available"}
+{"level":"info","message":"caching response under key=__express__/api/tasks"}
+{"level":"info","message":"loading data from db"}
+{"level":"info","message":"Error: Server at localhost:11211 not available"}
+{"level":"info","message":"caching response under key=__express__/api/tasks"}
+{"level":"info","message":"loading data from db"}
+{"level":"info","message":"Error: Server at localhost:11211 not available"}
+{"level":"info","message":"caching response under key=__express__/api/tasks"}
+{"level":"info","message":"GET /api/tasks 200"}
+{"level":"info","message":"verifying authorization"}
+{"level":"info","message":"authorization code =Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2NDJiMjQ4YmFmMGUyZjkwNDY1YmNmMGYiLCJpYXQiOjE2ODA2Mzk4NzEsImV4cCI6MTY4MDcyNjI3MX0.83uUcjZ1S9yQrkfp9Qll0T_I7EJyuWdclcWFtgtQDBU"}
+{"level":"info","message":"Authorized Request"}
 {"level":"info","message":"loading data from db"}
 {"level":"info","message":"caching response under key=__express__/api/tasks"}
 {"level":"info","message":"GET /api/tasks 200"}
+{"level":"info","message":"verifying authorization"}
+{"level":"info","message":"authorization code =Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2NDJiMjQ4YmFmMGUyZjkwNDY1YmNmMGYiLCJpYXQiOjE2ODA2Mzk4NzEsImV4cCI6MTY4MDcyNjI3MX0.83uUcjZ1S9yQrkfp9Qll0T_I7EJyuWdclcWFtgtQDBU"}
+{"level":"info","message":"Authorized Request"}
+{"level":"info","message":"loading cached response. key=__express__/api/tasks"}
+{"level":"info","message":"POST /api/tasks 200"}
+{"level":"info","message":"verifying authorization"}
+{"level":"info","message":"authorization code =Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2NDJiMjQ4YmFmMGUyZjkwNDY1YmNmMGYiLCJpYXQiOjE2ODA2Mzk4NzEsImV4cCI6MTY4MDcyNjI3MX0.83uUcjZ1S9yQrkfp9Qll0T_I7EJyuWdclcWFtgtQDBU"}
+{"level":"info","message":"Authorized Request"}
+{"level":"info","message":"GET /main.8bbc8dc3c82b31f825f3.hot-update.json 200"}
+{"level":"info","message":"GET /main.8bbc8dc3c82b31f825f3.hot-update.json 200"}
+{"level":"info","message":"GET /api/tasks 200"}
+{"level":"info","message":"verifying authorization"}
+{"level":"info","message":"authorization code =Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2NDJiMjQ4YmFmMGUyZjkwNDY1YmNmMGYiLCJpYXQiOjE2ODA2Mzk4NzEsImV4cCI6MTY4MDcyNjI3MX0.83uUcjZ1S9yQrkfp9Qll0T_I7EJyuWdclcWFtgtQDBU"}
+{"level":"info","message":"Authorized Request"}
 {"level":"info","message":"loading cached response. key=__express__/api/tasks"}
 {"level":"info","message":"GET /api/tasks 200"}
+{"level":"info","message":"verifying authorization"}
+{"level":"info","message":"authorization code =Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2NDJiMjQ4YmFmMGUyZjkwNDY1YmNmMGYiLCJpYXQiOjE2ODA2Mzk4NzEsImV4cCI6MTY4MDcyNjI3MX0.83uUcjZ1S9yQrkfp9Qll0T_I7EJyuWdclcWFtgtQDBU"}
+{"level":"info","message":"Authorized Request"}
 {"level":"info","message":"loading cached response. key=__express__/api/tasks"}
 {"level":"info","message":"GET /api/tasks 200"}
+{"level":"info","message":"verifying authorization"}
+{"level":"info","message":"authorization code =Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2NDJiMjY5OWFmMGUyZjkwNDY1YmNmMjQiLCJpYXQiOjE2ODA2NDE3MzAsImV4cCI6MTY4MDcyODEzMH0.wOOGUnN9GORD9Kn7letiziLNJXf-eDGvzBiLSVSEe6o"}
+{"level":"info","message":"Authorized Request"}
 {"level":"info","message":"loading cached response. key=__express__/api/tasks"}
+{"level":"info","message":"GET /api/tasks 200"}
+{"level":"info","message":"verifying authorization"}
+{"level":"info","message":"authorization code =Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2NDJiMjY5OWFmMGUyZjkwNDY1YmNmMjQiLCJpYXQiOjE2ODA2NDE3MzAsImV4cCI6MTY4MDcyODEzMH0.wOOGUnN9GORD9Kn7letiziLNJXf-eDGvzBiLSVSEe6o"}
+{"level":"info","message":"Authorized Request"}
+{"level":"info","message":"loading cached response. key=__express__/api/tasks"}
+{"level":"info","message":"GET /api/tasks 200"}
+{"level":"info","message":"verifying authorization"}
+{"level":"info","message":"authorization code =Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2NDJiMjY5OWFmMGUyZjkwNDY1YmNmMjQiLCJpYXQiOjE2ODA2NDE3MzAsImV4cCI6MTY4MDcyODEzMH0.wOOGUnN9GORD9Kn7letiziLNJXf-eDGvzBiLSVSEe6o"}
+{"level":"info","message":"Authorized Request"}
+{"level":"info","message":"loading cached response. key=__express__/api/tasks"}
+{"level":"info","message":"POST /api/tasks 200"}
+{"level":"info","message":"verifying authorization"}
+{"level":"info","message":"authorization code =Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2NDJiMjQ4YmFmMGUyZjkwNDY1YmNmMGYiLCJpYXQiOjE2ODA2Mzk4NzEsImV4cCI6MTY4MDcyNjI3MX0.83uUcjZ1S9yQrkfp9Qll0T_I7EJyuWdclcWFtgtQDBU"}
+{"level":"info","message":"Authorized Request"}
+{"level":"info","message":"DELETE /api/tasks/642c91bfde5ad47460fd6281 200"}
+{"level":"info","message":"verifying authorization"}
+{"level":"info","message":"authorization code =Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2NDJiMjQ4YmFmMGUyZjkwNDY1YmNmMGYiLCJpYXQiOjE2ODA2Mzk4NzEsImV4cCI6MTY4MDcyNjI3MX0.83uUcjZ1S9yQrkfp9Qll0T_I7EJyuWdclcWFtgtQDBU"}
+{"level":"info","message":"Authorized Request"}
+{"level":"info","message":"DELETE /api/tasks/undefined 200"}
+{"level":"info","message":"verifying authorization"}
+{"level":"info","message":"authorization code =Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2NDJiMjQ4YmFmMGUyZjkwNDY1YmNmMGYiLCJpYXQiOjE2ODA2Mzk4NzEsImV4cCI6MTY4MDcyNjI3MX0.83uUcjZ1S9yQrkfp9Qll0T_I7EJyuWdclcWFtgtQDBU"}
+{"level":"info","message":"Authorized Request"}
+{"level":"info","message":"POST /api/tasks 200"}
+{"level":"info","message":"verifying authorization"}
+{"level":"info","message":"authorization code =Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2NDJiMjQ4YmFmMGUyZjkwNDY1YmNmMGYiLCJpYXQiOjE2ODA2Mzk4NzEsImV4cCI6MTY4MDcyNjI3MX0.83uUcjZ1S9yQrkfp9Qll0T_I7EJyuWdclcWFtgtQDBU"}
+{"level":"info","message":"Authorized Request"}
+{"level":"info","message":"DELETE /api/tasks/642c91c7de5ad47460fd6289 200"}
+{"level":"info","message":"verifying authorization"}
+{"level":"info","message":"authorization code =Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2NDJiMjQ4YmFmMGUyZjkwNDY1YmNmMGYiLCJpYXQiOjE2ODA2Mzk4NzEsImV4cCI6MTY4MDcyNjI3MX0.83uUcjZ1S9yQrkfp9Qll0T_I7EJyuWdclcWFtgtQDBU"}
+{"level":"info","message":"Authorized Request"}
+{"level":"info","message":"DELETE /api/tasks/undefined 200"}
+{"level":"info","message":"verifying authorization"}
+{"level":"info","message":"authorization code =Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2NDJiMjQ4YmFmMGUyZjkwNDY1YmNmMGYiLCJpYXQiOjE2ODA2Mzk4NzEsImV4cCI6MTY4MDcyNjI3MX0.83uUcjZ1S9yQrkfp9Qll0T_I7EJyuWdclcWFtgtQDBU"}
+{"level":"info","message":"Authorized Request"}
+{"level":"info","message":"GET /api/tasks 200"}
+{"level":"info","message":"verifying authorization"}
+{"level":"info","message":"authorization code =Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2NDJiMjQ4YmFmMGUyZjkwNDY1YmNmMGYiLCJpYXQiOjE2ODA2Mzk4NzEsImV4cCI6MTY4MDcyNjI3MX0.83uUcjZ1S9yQrkfp9Qll0T_I7EJyuWdclcWFtgtQDBU"}
+{"level":"info","message":"Authorized Request"}
+{"level":"info","message":"loading cached response. key=__express__/api/tasks"}
+{"level":"info","message":"GET /api/tasks 200"}
+{"level":"info","message":"verifying authorization"}
+{"level":"info","message":"authorization code =Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2NDJiMjQ4YmFmMGUyZjkwNDY1YmNmMGYiLCJpYXQiOjE2ODA2Mzk4NzEsImV4cCI6MTY4MDcyNjI3MX0.83uUcjZ1S9yQrkfp9Qll0T_I7EJyuWdclcWFtgtQDBU"}
+{"level":"info","message":"Authorized Request"}
+{"level":"info","message":"loading cached response. key=__express__/api/tasks"}
+{"level":"info","message":"POST /api/tasks 200"}
+{"level":"info","message":"verifying authorization"}
+{"level":"info","message":"authorization code =Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2NDJiMjQ4YmFmMGUyZjkwNDY1YmNmMGYiLCJpYXQiOjE2ODA2Mzk4NzEsImV4cCI6MTY4MDcyNjI3MX0.83uUcjZ1S9yQrkfp9Qll0T_I7EJyuWdclcWFtgtQDBU"}
+{"level":"info","message":"Authorized Request"}
+{"level":"info","message":"DELETE /api/tasks/undefined 200"}
+{"level":"info","message":"verifying authorization"}
+{"level":"info","message":"authorization code =Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2NDJiMjQ4YmFmMGUyZjkwNDY1YmNmMGYiLCJpYXQiOjE2ODA2Mzk4NzEsImV4cCI6MTY4MDcyNjI3MX0.83uUcjZ1S9yQrkfp9Qll0T_I7EJyuWdclcWFtgtQDBU"}
+{"level":"info","message":"Authorized Request"}
+{"level":"info","message":"POST /api/tasks 200"}
+{"level":"info","message":"verifying authorization"}
+{"level":"info","message":"authorization code =Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2NDJiMjQ4YmFmMGUyZjkwNDY1YmNmMGYiLCJpYXQiOjE2ODA2Mzk4NzEsImV4cCI6MTY4MDcyNjI3MX0.83uUcjZ1S9yQrkfp9Qll0T_I7EJyuWdclcWFtgtQDBU"}
+{"level":"info","message":"Authorized Request"}
+{"level":"info","message":"DELETE /api/tasks/642c91e7de5ad47460fd6297 200"}
+{"level":"info","message":"verifying authorization"}
+{"level":"info","message":"authorization code =Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2NDJiMjQ4YmFmMGUyZjkwNDY1YmNmMGYiLCJpYXQiOjE2ODA2Mzk4NzEsImV4cCI6MTY4MDcyNjI3MX0.83uUcjZ1S9yQrkfp9Qll0T_I7EJyuWdclcWFtgtQDBU"}
+{"level":"info","message":"Authorized Request"}
+{"level":"info","message":"DELETE /api/tasks/undefined 200"}
+{"level":"info","message":"verifying authorization"}
+{"level":"info","message":"authorization code =Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2NDJiMjQ4YmFmMGUyZjkwNDY1YmNmMGYiLCJpYXQiOjE2ODA2Mzk4NzEsImV4cCI6MTY4MDcyNjI3MX0.83uUcjZ1S9yQrkfp9Qll0T_I7EJyuWdclcWFtgtQDBU"}
+{"level":"info","message":"Authorized Request"}

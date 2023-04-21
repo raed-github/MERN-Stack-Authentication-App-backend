@@ -3,7 +3,9 @@ const mongoose = require('mongoose')
 
 //get tasks
 const getTasks = async (req,resp)=>{
-    const tasks = await Task.find({}).sort({createAt: -1})
+    //user object was already added to the object in the auth middleware
+    const user_id = req.user._id
+    const tasks = await Task.find({user_id}).sort({createAt: -1})
     resp.status(200).json(tasks)
 }
 
@@ -35,12 +37,13 @@ const createTask = async (req,resp) => {
         return resp.status(400).json({error:'Please fill in all fields',emptyFields})
     }
     try{
-        const task = await Task.create({taskName,priority})
+        //user object was already added to the object in the auth middleware
+        const user_id = req.user._id
+        const task = await Task.create({taskName,priority,user_id})
         resp.status(200).json(task)
     }catch(error){
         resp.status(400).json({error: error.message})
     }
-    console.log(resp)
 }
 
 //delete task
@@ -72,7 +75,6 @@ const updateTask = async (req,resp)=>{
     }
     resp.status(200).json(task)
 }
-
 module.exports={
     getTasks,
     getTaskById,

@@ -4,10 +4,15 @@ const router = express.Router()
 
 const {getTasks,getTaskById,createTask,deleteTask,updateTask} = require('../controllers/tasksController')
 
-const {cache} = require('../util/caching')
+const {cache} = require('../middleware/caching')
+
+const {requireAuthentication} = require('../middleware/requireAuthentication')
+
+//require authentication for all task routes
+router.use(requireAuthentication)
 
 //GET all tasks
-router.get('',cache, getTasks)
+router.get('', cache,getTasks)
 
 //GET a task by id
 router.get('/:id',cache, getTaskById)

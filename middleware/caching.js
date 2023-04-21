@@ -5,6 +5,10 @@ const {logger} = require('../util/logging')
 // Cache middleware
 const cache = (req, res, next) => {
     const key = '__express__' + req.originalUrl || req.url;
+    if(req.method === 'DELETE'){
+        logger.log('info', `deleting cached response. key=${key}`);
+        memcached.del(key);
+    }
     memcached.get(key, (err, cachedData) => {
     if (cachedData) {
         logger.log('info', `loading cached response. key=${key}`);
@@ -26,5 +30,4 @@ const cache = (req, res, next) => {
     }
     });
 };
-
 module.exports = {cache}
